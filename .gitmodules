@@ -4,3 +4,6 @@
 [submodule "novel"]
 	path = app/novel
 	url = git@github.com:huajianLLs/novel.git
+[submodule "mouse"]
+	path = app/mouse
+	url = git@github.com:huajianLLs/mouse-battery.git
